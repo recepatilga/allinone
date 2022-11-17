@@ -1,5 +1,4 @@
 #!/bin/bash
-sudo su
 cd /root
 sudo apt-get update
 
